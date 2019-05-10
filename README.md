@@ -24,3 +24,9 @@ for LDAP
   - Group Attribute: `cn`
   - Group DN: `ou=groups,dc=example,dc=io`
 
+#### Useful resources
+> These are nice-to-haves
+- [Managing secrets with Vault + Consul](https://testdriven.io/blog/managing-secrets-with-vault-and-consul/)
+- [Consul + Vault configuration](http://pcarion.com/2017/04/30/A-consul-a-vault-and-a-docker-walk-into-a-bar..html)
+- [Docker + Consul + Vault: A Practical Guide](https://www.marcolancini.it/2017/blog-vault/)
+- [Vault configuration](https://www.vaultproject.io/docs/configuration/ui/index.html)
